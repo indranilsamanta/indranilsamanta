@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilsamanta&label=Profile%20views&color=0e75b6&style=flat" alt="indranilsamanta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranilsamanta" alt="indranilsamanta" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/indranilsamant" target="blank"><img src="https://img.shields.io/twitter/follow/indranilsamant?logo=twitter&style=for-the-badge" alt="indranilsamant" /></a> </p>
 
@@ -18,6 +18,8 @@
 - 💬 Ask me about **C, Python, JavaScript, OS, SQL, PHP etc.**
 
 - 📫 How to reach me **developer.samanta@gmail.com**
+
+<br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranilsamanta" alt="indranilsamanta" /></a> </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +38,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/indranilsamanta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="indranilsamanta" /></a></p><br><br>
 
-<br><p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=indranilsamanta&show_icons=true&locale=en&layout=compact" alt="indranilsamanta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranilsamanta&show_icons=true&locale=en" alt="indranilsamanta" /></p>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=indranilsamanta&show_icons=true&locale=en" alt="indranilsamanta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranilsamanta&" alt="indranilsamanta" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=indranilsamanta&show_icons=true&locale=en&layout=compact" alt="indranilsamanta" /></p>
